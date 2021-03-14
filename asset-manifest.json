@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/deploy-language-detector/static/css/main.c6458b76.chunk.css",
+    "main.js": "/deploy-language-detector/static/js/main.1b93c2f2.chunk.js",
+    "main.js.map": "/deploy-language-detector/static/js/main.1b93c2f2.chunk.js.map",
+    "runtime-main.js": "/deploy-language-detector/static/js/runtime-main.1450a98d.js",
+    "runtime-main.js.map": "/deploy-language-detector/static/js/runtime-main.1450a98d.js.map",
+    "static/js/2.0f5357ab.chunk.js": "/deploy-language-detector/static/js/2.0f5357ab.chunk.js",
+    "static/js/2.0f5357ab.chunk.js.map": "/deploy-language-detector/static/js/2.0f5357ab.chunk.js.map",
+    "index.html": "/deploy-language-detector/index.html",
+    "static/css/main.c6458b76.chunk.css.map": "/deploy-language-detector/static/css/main.c6458b76.chunk.css.map",
+    "static/js/2.0f5357ab.chunk.js.LICENSE.txt": "/deploy-language-detector/static/js/2.0f5357ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1450a98d.js",
+    "static/js/2.0f5357ab.chunk.js",
+    "static/css/main.c6458b76.chunk.css",
+    "static/js/main.1b93c2f2.chunk.js"
+  ]
+}
