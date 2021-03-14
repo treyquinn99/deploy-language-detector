@@ -28,8 +28,8 @@ class Welcome extends React.Component {
         <header className="App-header">
           <h1><span>Language</span> Detector</h1>
           <p>Enter a phrase in either <span>English</span>, <span>Spanish</span>, or <span>French</span> below.</p>
-          <label htmlFor="phrase" >Enter phrase here.</label>
           <form>
+              <label htmlFor="phrase" >Enter phrase here.</label>
               <input id="phrase" type="text" name="phrase" onChange={this.onChangeHandler} onKeyPress={this.onKeyDetection} />
           </form>
           <br />
